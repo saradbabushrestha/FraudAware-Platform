@@ -14,8 +14,7 @@ This is an Express.js-based application designed to raise awareness about online
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/saradbabushrestha/FraudAware-Platform.git
     ```
 
 2. Install the dependencies:
@@ -48,4 +47,21 @@ This is an Express.js-based application designed to raise awareness about online
 4. To access the admin page to view the captured credentials, navigate to `http://localhost:3000/victims` and enter the password you set in the `.env` file.
 
 ## File Structure
+
+## Dependencies
+
+- [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
+- [EJS](https://ejs.co/) - Simple templating engine that lets you generate HTML with plain JavaScript.
+- [dotenv](https://www.npmjs.com/package/dotenv) - Loads environment variables from a `.env` file into `process.env`.
+- [body-parser](https://www.npmjs.com/package/body-parser) - Middleware for parsing incoming request bodies.
+- [fs](https://nodejs.org/api/fs.html) - Node.js file system module for reading and writing files.
+- [path](https://nodejs.org/api/path.html) - Utility module for working with file and directory paths.
+
+## License
+
+This project is for educational and awareness purposes only. It should **not** be used for malicious activities. Always ensure you have proper authorization before running any penetration testing or security exercises.
+
+---
+
+**Disclaimer**: This project is strictly for learning and raising awareness about phishing techniques. Do not use this code to perform illegal activities.
 
