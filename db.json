@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "platform": "Facebook",
+    "email": "test@gmail.com",
+    "password": "hello",
+    "timestamp": "2024-09-12T13:11:14.271Z"
+  },
+  {
+    "platform": "Instagram",
+    "email": "test@gmail.com",
+    "password": "sarad",
+    "timestamp": "2024-09-12T13:12:47.833Z"
+  },
+  {
+    "platform": "Facebook",
+    "email": "test@123",
+    "password": "sarad",
+    "timestamp": "2024-09-12T13:20:26.417Z"
+  },
+  {
+    "platform": "Facebook",
+    "email": "hello@gmail.com",
+    "password": "saradshresthaa",
+    "timestamp": "2024-09-12T15:31:03.448Z"
+  },
+  {
+    "platform": "Instagram",
+    "email": "gxm@gmail.com",
+    "password": "123456",
+    "timestamp": "2024-09-12T15:31:44.262Z"
+  },
+  {
+    "platform": "Instagram",
+    "email": "saradshrestha@123.com",
+    "password": "saradshrestha",
+    "timestamp": "2024-09-13T02:53:37.818Z"
+  },
+  {
+    "platform": "Facebook",
+    "email": "saradshrestha@GMAIL.COM",
+    "password": "qqaa",
+    "timestamp": "2024-09-13T02:54:03.302Z"
+  }
+]
